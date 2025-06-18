@@ -1,2 +1,2 @@
 # NETRA
-A Voice Based Image Summarization for thr Visually Impaired People
+A Voice Based Image Summarization for the Visually Impaired People
